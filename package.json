@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/blheson/test_sol/issues"
   },
-  "homepage": "https://github.com/blheson/test_sol#readme"
+  "homepage": "https://github.com/blheson/test_sol#readme",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.11.3"
+  }
 }
