@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/blheson/test_sol#readme",
   "dependencies": {
-    "@hashgraph/sdk": "^2.11.3"
+    "@hashgraph/sdk": "^2.11.3",
+    "dotenv": "^16.0.0"
   }
 }
